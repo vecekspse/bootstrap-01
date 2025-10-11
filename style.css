@@ -1,0 +1,20 @@
+:root {
+    --bs-primary: #FF00FF;
+    --bs-primary-rgb: 255, 0, 255;
+    --bs-body-font-family: cursive, sans-serif;
+}
+
+@media (min-width: 1200px) {
+    .container {
+        max-width: 900px;
+    }
+}
+
+.btn-primary {
+    background-color: #FF00FF;
+}
+
+
+.my-background {
+    background-image: url(https://picsum.photos/id/1/1920/1080);
+}
